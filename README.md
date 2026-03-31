@@ -1,8 +1,8 @@
 # digital-literacy-project
-Overview
+Overview-
 This project focuses on understanding cybercrime, online safety, and using digital tools effectively as a college student. It explores scenarios like UPI fraud, phishing, and miscommunication in group projects, highlighting how small mistakes online can have real consequences.
 
-Project Contents
+Project Contents-
 Case Study: A detailed look at UPI/online payment fraud, including how it happens, who is targeted, and potential consequences.
 Prevention Checklist: A practical “Stay Safe Online” guide with tips for students, including financial safety and reporting channels like National Cyber Crime Portal
  and helpline 1930.
